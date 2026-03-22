@@ -128,9 +128,9 @@ export const courses: Course[] = [
     duration: '48h 20m',
     updatedAt: 'March 2024',
     lessons: [
-      { id: 'l1', title: 'Node.js Fundamentals', duration: '14:00', videoUrl: '#', isPreview: true },
-      { id: 'l2', title: 'Express Framework', duration: '19:45', videoUrl: '#', isPreview: false },
-      { id: 'l3', title: 'RESTful API Design', duration: '24:30', videoUrl: '#', isPreview: false },
+      { id: 'l1', title: 'Node.js Fundamentals', duration: '14:00', videoUrl: 'TlB_eWDSMt4', isPreview: true },
+      { id: 'l2', title: 'Express Framework', duration: '19:45', videoUrl: 'SccSCuHhOw0', isPreview: false },
+      { id: 'l3', title: 'RESTful API Design', duration: '24:30', videoUrl: 'fgTGADljAMk', isPreview: false },
     ],
   },
   {
