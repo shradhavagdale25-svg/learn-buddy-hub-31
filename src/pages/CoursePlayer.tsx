@@ -73,15 +73,14 @@ const CoursePlayer = () => {
         {/* Video area */}
         <div className="flex-1 flex flex-col">
           <div className="relative w-full bg-foreground">
-            <video
+            <iframe
               key={activeLesson}
-              controls
-              autoPlay
-              className="w-full aspect-video max-h-[70vh] bg-foreground"
-              src={SAMPLE_VIDEO}
-            >
-              Your browser does not support the video tag.
-            </video>
+              className="w-full aspect-video"
+              src={`https://www.youtube.com/embed/${lesson.videoUrl}?autoplay=1&rel=0`}
+              title={lesson.title}
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            />
           </div>
           <div className="p-6 bg-card flex-1">
             <h2 className="font-heading text-xl font-bold mb-2">{lesson.title}</h2>
