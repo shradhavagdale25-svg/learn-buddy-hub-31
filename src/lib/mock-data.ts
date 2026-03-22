@@ -83,10 +83,10 @@ export const courses: Course[] = [
     duration: '56h 15m',
     updatedAt: 'February 2024',
     lessons: [
-      { id: 'l1', title: 'Python Fundamentals Review', duration: '15:00', videoUrl: '#', isPreview: true },
-      { id: 'l2', title: 'NumPy Essentials', duration: '20:30', videoUrl: '#', isPreview: false },
-      { id: 'l3', title: 'Pandas for Data Analysis', duration: '25:45', videoUrl: '#', isPreview: false },
-      { id: 'l4', title: 'Data Visualization with Matplotlib', duration: '18:20', videoUrl: '#', isPreview: false },
+      { id: 'l1', title: 'Python Fundamentals Review', duration: '15:00', videoUrl: 'kqtD5dpn9C8', isPreview: true },
+      { id: 'l2', title: 'NumPy Essentials', duration: '20:30', videoUrl: 'QUT1VHiLmmI', isPreview: false },
+      { id: 'l3', title: 'Pandas for Data Analysis', duration: '25:45', videoUrl: 'vmEHCJofslg', isPreview: false },
+      { id: 'l4', title: 'Data Visualization with Matplotlib', duration: '18:20', videoUrl: 'UO98lJQ3QGI', isPreview: false },
     ],
   },
   {
