@@ -37,7 +37,7 @@ const Footer = () => (
         </div>
       </div>
       <div className="mt-10 pt-6 border-t border-border text-center text-xs text-muted-foreground">
-        © 2024 LearnHub. All rights reserved.
+        © 2024 LMS. All rights reserved.
       </div>
     </div>
   </footer>

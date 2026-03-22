@@ -21,7 +21,7 @@ const Navbar = () => {
           <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary">
             <GraduationCap className="h-5 w-5 text-primary-foreground" />
           </div>
-          <span className="font-heading text-xl font-bold tracking-tight">LearnHub</span>
+          <span className="font-heading text-xl font-bold tracking-tight">LMS</span>
         </Link>
 
         <form onSubmit={handleSearch} className="hidden md:flex flex-1 max-w-md">
