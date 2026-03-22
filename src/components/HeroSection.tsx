@@ -26,9 +26,9 @@ const HeroSection = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.1 }}
           >
-            Learn without limits,{' '}
+            Welcome to{' '}
             <span className="bg-clip-text text-transparent" style={{ backgroundImage: 'var(--gradient-hero)' }}>
-              grow without bounds
+              LMS
             </span>
           </motion.h1>
           <motion.p
