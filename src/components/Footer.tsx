@@ -10,7 +10,7 @@ const Footer = () => (
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
               <GraduationCap className="h-4 w-4 text-primary-foreground" />
             </div>
-            <span className="font-heading text-lg font-bold">LMS</span>
+            <span className="font-heading text-lg font-bold">LearnHub</span>
           </Link>
           <p className="text-sm text-muted-foreground">Empowering learners worldwide with quality education.</p>
         </div>
@@ -37,7 +37,7 @@ const Footer = () => (
         </div>
       </div>
       <div className="mt-10 pt-6 border-t border-border text-center text-xs text-muted-foreground">
-        © 2024 LMS. All rights reserved.
+        © 2024 LearnHub. All rights reserved.
       </div>
     </div>
   </footer>

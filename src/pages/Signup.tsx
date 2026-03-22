@@ -16,7 +16,7 @@ const Signup = () => {
           <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-primary">
             <GraduationCap className="h-5 w-5 text-primary-foreground" />
           </div>
-          <span className="font-heading text-2xl font-bold">LMS</span>
+          <span className="font-heading text-2xl font-bold">LearnHub</span>
         </Link>
         <div className="bg-card border border-border rounded-xl p-6 shadow-card">
           <h1 className="font-heading text-xl font-bold text-center mb-1">Create your account</h1>
