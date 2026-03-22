@@ -58,12 +58,12 @@ export const courses: Course[] = [
     duration: '42h 30m',
     updatedAt: 'March 2024',
     lessons: [
-      { id: 'l1', title: 'Introduction to React', duration: '12:30', videoUrl: '#', isPreview: true },
-      { id: 'l2', title: 'Setting Up Your Environment', duration: '8:45', videoUrl: '#', isPreview: true },
-      { id: 'l3', title: 'JSX Deep Dive', duration: '18:20', videoUrl: '#', isPreview: false },
-      { id: 'l4', title: 'Components & Props', duration: '22:10', videoUrl: '#', isPreview: false },
-      { id: 'l5', title: 'State Management', duration: '25:00', videoUrl: '#', isPreview: false },
-      { id: 'l6', title: 'Hooks In Depth', duration: '30:15', videoUrl: '#', isPreview: false },
+      { id: 'l1', title: 'Introduction to React', duration: '12:30', videoUrl: 'SqcY0GlETPk', isPreview: true },
+      { id: 'l2', title: 'Setting Up Your Environment', duration: '8:45', videoUrl: 'hQAHSlTtcmY', isPreview: true },
+      { id: 'l3', title: 'JSX Deep Dive', duration: '18:20', videoUrl: '9D1x7-2FmTA', isPreview: false },
+      { id: 'l4', title: 'Components & Props', duration: '22:10', videoUrl: 'Tn6-PIqc4UM', isPreview: false },
+      { id: 'l5', title: 'State Management', duration: '25:00', videoUrl: 'O6P86uwfdR0', isPreview: false },
+      { id: 'l6', title: 'Hooks In Depth', duration: '30:15', videoUrl: 'TNhaISOUy6Q', isPreview: false },
     ],
   },
   {
@@ -83,10 +83,10 @@ export const courses: Course[] = [
     duration: '56h 15m',
     updatedAt: 'February 2024',
     lessons: [
-      { id: 'l1', title: 'Python Fundamentals Review', duration: '15:00', videoUrl: '#', isPreview: true },
-      { id: 'l2', title: 'NumPy Essentials', duration: '20:30', videoUrl: '#', isPreview: false },
-      { id: 'l3', title: 'Pandas for Data Analysis', duration: '25:45', videoUrl: '#', isPreview: false },
-      { id: 'l4', title: 'Data Visualization with Matplotlib', duration: '18:20', videoUrl: '#', isPreview: false },
+      { id: 'l1', title: 'Python Fundamentals Review', duration: '15:00', videoUrl: 'kqtD5dpn9C8', isPreview: true },
+      { id: 'l2', title: 'NumPy Essentials', duration: '20:30', videoUrl: 'QUT1VHiLmmI', isPreview: false },
+      { id: 'l3', title: 'Pandas for Data Analysis', duration: '25:45', videoUrl: 'vmEHCJofslg', isPreview: false },
+      { id: 'l4', title: 'Data Visualization with Matplotlib', duration: '18:20', videoUrl: 'UO98lJQ3QGI', isPreview: false },
     ],
   },
   {
@@ -106,9 +106,9 @@ export const courses: Course[] = [
     duration: '38h 45m',
     updatedAt: 'January 2024',
     lessons: [
-      { id: 'l1', title: 'What is UX Design?', duration: '10:00', videoUrl: '#', isPreview: true },
-      { id: 'l2', title: 'Design Thinking Process', duration: '22:15', videoUrl: '#', isPreview: false },
-      { id: 'l3', title: 'Figma Basics', duration: '28:30', videoUrl: '#', isPreview: false },
+      { id: 'l1', title: 'What is UX Design?', duration: '10:00', videoUrl: 'SRec90j6lTY', isPreview: true },
+      { id: 'l2', title: 'Design Thinking Process', duration: '22:15', videoUrl: 'gHGN6hs2gZY', isPreview: false },
+      { id: 'l3', title: 'Figma Basics', duration: '28:30', videoUrl: 'FTFaQWZBqQ8', isPreview: false },
     ],
   },
   {
@@ -128,9 +128,9 @@ export const courses: Course[] = [
     duration: '48h 20m',
     updatedAt: 'March 2024',
     lessons: [
-      { id: 'l1', title: 'Node.js Fundamentals', duration: '14:00', videoUrl: '#', isPreview: true },
-      { id: 'l2', title: 'Express Framework', duration: '19:45', videoUrl: '#', isPreview: false },
-      { id: 'l3', title: 'RESTful API Design', duration: '24:30', videoUrl: '#', isPreview: false },
+      { id: 'l1', title: 'Node.js Fundamentals', duration: '14:00', videoUrl: 'TlB_eWDSMt4', isPreview: true },
+      { id: 'l2', title: 'Express Framework', duration: '19:45', videoUrl: 'SccSCuHhOw0', isPreview: false },
+      { id: 'l3', title: 'RESTful API Design', duration: '24:30', videoUrl: 'fgTGADljAMk', isPreview: false },
     ],
   },
   {
@@ -150,8 +150,8 @@ export const courses: Course[] = [
     duration: '44h 10m',
     updatedAt: 'February 2024',
     lessons: [
-      { id: 'l1', title: 'Dart Language Basics', duration: '16:00', videoUrl: '#', isPreview: true },
-      { id: 'l2', title: 'Flutter Widgets', duration: '21:30', videoUrl: '#', isPreview: false },
+      { id: 'l1', title: 'Dart Language Basics', duration: '16:00', videoUrl: 'Ej_Pcr4uC2Q', isPreview: true },
+      { id: 'l2', title: 'Flutter Widgets', duration: '21:30', videoUrl: 'x0uinJvhNxI', isPreview: false },
     ],
   },
   {
@@ -171,8 +171,8 @@ export const courses: Course[] = [
     duration: '32h 00m',
     updatedAt: 'March 2024',
     lessons: [
-      { id: 'l1', title: 'Digital Marketing Overview', duration: '11:00', videoUrl: '#', isPreview: true },
-      { id: 'l2', title: 'SEO Fundamentals', duration: '18:45', videoUrl: '#', isPreview: false },
+      { id: 'l1', title: 'Digital Marketing Overview', duration: '11:00', videoUrl: 'bixR-KIJKYM', isPreview: true },
+      { id: 'l2', title: 'SEO Fundamentals', duration: '18:45', videoUrl: 'DvwS7cV9GmQ', isPreview: false },
     ],
   },
 ];
