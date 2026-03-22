@@ -59,7 +59,9 @@ const CourseDetail = () => {
                 <span className="font-heading text-3xl font-bold">${course.price}</span>
                 {course.originalPrice && <span className="text-muted-foreground line-through">${course.originalPrice}</span>}
               </div>
-              <Button className="w-full mb-3" size="lg">Enroll Now</Button>
+              <Button className="w-full mb-3" size="lg" asChild>
+                <Link to={`/course/${course.id}/learn`}>Enroll Now</Link>
+              </Button>
               <Button variant="outline" className="w-full" size="lg">Add to Cart</Button>
               <div className="mt-4 space-y-2 text-sm text-muted-foreground">
                 <div className="flex items-center gap-2"><Clock className="h-4 w-4" />{course.duration} of content</div>
