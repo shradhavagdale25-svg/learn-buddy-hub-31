@@ -6,7 +6,6 @@ import { Progress } from '@/components/ui/progress';
 import Navbar from '@/components/Navbar';
 import { courses } from '@/lib/mock-data';
 
-const SAMPLE_VIDEO = 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4';
 
 const CoursePlayer = () => {
   const { id } = useParams();
