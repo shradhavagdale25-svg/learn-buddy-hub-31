@@ -150,8 +150,8 @@ export const courses: Course[] = [
     duration: '44h 10m',
     updatedAt: 'February 2024',
     lessons: [
-      { id: 'l1', title: 'Dart Language Basics', duration: '16:00', videoUrl: '#', isPreview: true },
-      { id: 'l2', title: 'Flutter Widgets', duration: '21:30', videoUrl: '#', isPreview: false },
+      { id: 'l1', title: 'Dart Language Basics', duration: '16:00', videoUrl: 'Ej_Pcr4uC2Q', isPreview: true },
+      { id: 'l2', title: 'Flutter Widgets', duration: '21:30', videoUrl: 'x0uinJvhNxI', isPreview: false },
     ],
   },
   {
