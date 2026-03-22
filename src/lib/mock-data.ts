@@ -58,12 +58,12 @@ export const courses: Course[] = [
     duration: '42h 30m',
     updatedAt: 'March 2024',
     lessons: [
-      { id: 'l1', title: 'Introduction to React', duration: '12:30', videoUrl: '#', isPreview: true },
-      { id: 'l2', title: 'Setting Up Your Environment', duration: '8:45', videoUrl: '#', isPreview: true },
-      { id: 'l3', title: 'JSX Deep Dive', duration: '18:20', videoUrl: '#', isPreview: false },
-      { id: 'l4', title: 'Components & Props', duration: '22:10', videoUrl: '#', isPreview: false },
-      { id: 'l5', title: 'State Management', duration: '25:00', videoUrl: '#', isPreview: false },
-      { id: 'l6', title: 'Hooks In Depth', duration: '30:15', videoUrl: '#', isPreview: false },
+      { id: 'l1', title: 'Introduction to React', duration: '12:30', videoUrl: 'SqcY0GlETPk', isPreview: true },
+      { id: 'l2', title: 'Setting Up Your Environment', duration: '8:45', videoUrl: 'hQAHSlTtcmY', isPreview: true },
+      { id: 'l3', title: 'JSX Deep Dive', duration: '18:20', videoUrl: '9D1x7-2FmTA', isPreview: false },
+      { id: 'l4', title: 'Components & Props', duration: '22:10', videoUrl: 'Tn6-PIqc4UM', isPreview: false },
+      { id: 'l5', title: 'State Management', duration: '25:00', videoUrl: 'O6P86uwfdR0', isPreview: false },
+      { id: 'l6', title: 'Hooks In Depth', duration: '30:15', videoUrl: 'TNhaISOUy6Q', isPreview: false },
     ],
   },
   {
