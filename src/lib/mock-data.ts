@@ -171,8 +171,8 @@ export const courses: Course[] = [
     duration: '32h 00m',
     updatedAt: 'March 2024',
     lessons: [
-      { id: 'l1', title: 'Digital Marketing Overview', duration: '11:00', videoUrl: '#', isPreview: true },
-      { id: 'l2', title: 'SEO Fundamentals', duration: '18:45', videoUrl: '#', isPreview: false },
+      { id: 'l1', title: 'Digital Marketing Overview', duration: '11:00', videoUrl: 'bixR-KIJKYM', isPreview: true },
+      { id: 'l2', title: 'SEO Fundamentals', duration: '18:45', videoUrl: 'DvwS7cV9GmQ', isPreview: false },
     ],
   },
 ];
