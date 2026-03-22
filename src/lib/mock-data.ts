@@ -106,9 +106,9 @@ export const courses: Course[] = [
     duration: '38h 45m',
     updatedAt: 'January 2024',
     lessons: [
-      { id: 'l1', title: 'What is UX Design?', duration: '10:00', videoUrl: '#', isPreview: true },
-      { id: 'l2', title: 'Design Thinking Process', duration: '22:15', videoUrl: '#', isPreview: false },
-      { id: 'l3', title: 'Figma Basics', duration: '28:30', videoUrl: '#', isPreview: false },
+      { id: 'l1', title: 'What is UX Design?', duration: '10:00', videoUrl: 'SRec90j6lTY', isPreview: true },
+      { id: 'l2', title: 'Design Thinking Process', duration: '22:15', videoUrl: 'gHGN6hs2gZY', isPreview: false },
+      { id: 'l3', title: 'Figma Basics', duration: '28:30', videoUrl: 'FTFaQWZBqQ8', isPreview: false },
     ],
   },
   {
