@@ -65,10 +65,6 @@ const Navbar = () => {
             <Button variant="ghost" className="justify-start" asChild><Link to="/courses" onClick={() => setMobileOpen(false)}>Explore</Link></Button>
             <Button variant="ghost" className="justify-start" asChild><Link to="/dashboard/instructor" onClick={() => setMobileOpen(false)}>Teach</Link></Button>
             <Button variant="ghost" className="justify-start" asChild><Link to="/dashboard/student" onClick={() => setMobileOpen(false)}>My Learning</Link></Button>
-            <div className="flex gap-2 pt-2">
-              <Button variant="outline" className="flex-1" asChild><Link to="/login" onClick={() => setMobileOpen(false)}>Log in</Link></Button>
-              <Button className="flex-1" asChild><Link to="/signup" onClick={() => setMobileOpen(false)}>Sign up</Link></Button>
-            </div>
           </div>
         </div>
       )}
