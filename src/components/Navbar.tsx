@@ -46,12 +46,6 @@ const Navbar = () => {
           <Button variant="ghost" size="icon" asChild>
             <Link to="/cart"><ShoppingCart className="h-5 w-5" /></Link>
           </Button>
-          <Button variant="outline" size="sm" asChild>
-            <Link to="/login">Log in</Link>
-          </Button>
-          <Button size="sm" asChild>
-            <Link to="/signup">Sign up</Link>
-          </Button>
         </div>
 
         <Button variant="ghost" size="icon" className="md:hidden" onClick={() => setMobileOpen(!mobileOpen)}>
